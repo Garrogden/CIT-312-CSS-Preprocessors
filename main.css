@@ -1,0 +1,63 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+box1 p {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border: 8px solid Black;
+}
+box2 p {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  border: 8px solid Black;
+}
+box3 p {
+  height: 250px;
+  width: 250px;
+  background-color: green;
+  border: 8px solid Black;
+}
+box3 box1 p {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border: 8px solid Black;
+}
+box3 box2 p {
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  border: 8px solid Black;
+}
+box3 box3 p {
+  height: 250px;
+  width: 250px;
+  background-color: green;
+  border: 8px solid Black;
+}
+box3 box4 p {
+  height: 50px;
+  width: 50px;
+  background-color: purple;
+  border: 8px solid Black;
+}
+box4 p {
+  height: 50px;
+  width: 50px;
+  background-color: purple;
+  border: 8px solid Black;
+}
+/*# sourceMappingURL=main.css.map */
